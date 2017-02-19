@@ -1,0 +1,6 @@
+ID,DATE_TIME,CUSTOMER,PRODUCT,QUANTITY,TOTAL_AMOUNT
+"1","2017-02-01 09:00:32","Ann Smith","Barilla Pasta","1.00","1.56"
+"2","2017-02-01 09:05:12","Bob Burns","Regular coke 1 LT","1.00","3.32"
+"3","2017-02-01 09:08:12","Clark Kent","Milkbar","1.00","1.13"
+"4","2017-02-01 09:15:00","Derek Johnson","Milkbar","1.00","1.13"
+"5","2017-02-02 09:00:00","Ann Smith","Milkbar","1.00","1.13"
