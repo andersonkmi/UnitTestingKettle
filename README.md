@@ -18,7 +18,7 @@ The data structure in use is quite simple. By looking at the SQL scripts, it is 
 
 The image below shows a simple diagram of the mentioned tables:
 
-![alt text](https://github.com/andersonkmi/UnitTestingKettle/img/diagram.jpg "ER diagram")
+![alt text](https://github.com/andersonkmi/UnitTestingKettle/raw/master/img/diagram.jpg "ER diagram")
 
 ## ETL description
 In construction
