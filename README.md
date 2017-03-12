@@ -1,5 +1,5 @@
-# UnitTestingKettle
-Simple project for unit testing an ETL developed using Pentaho Data Integration (Kettle)
+# Unit Testing Pentaho Data Integration (Kettle) ETLs
+Simple project for unit testing an ETL developed using Pentaho Data Integration (Kettle).
 
 ## Structure
 This project is organized in folders described as follows:
@@ -20,8 +20,15 @@ The image below shows a simple diagram of the mentioned tables:
 
 ![alt text](https://github.com/andersonkmi/UnitTestingKettle/raw/master/img/diagram.jpg "ER diagram")
 
+This project assumes that MySQL databases will be used for staging and production environments, therefore the same set of tables are created for both scenarios.
+
 ## ETL description
-In construction
+Under construction!
 
 ## Unit testing
-In construction
+Under construction!
+
+## References
+* [Pentaho Data Integration (Kettle)](http://community.pentaho.com/projects/data-integration/ "Pentaho Data Integration's Homepage")
+
+* [JUnit](http://junit.org/ "JUnit's Homepage")
