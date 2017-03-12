@@ -21,7 +21,7 @@ The image below shows a simple diagram of the mentioned tables:
 ![alt text](https://github.com/andersonkmi/UnitTestingKettle/raw/master/img/diagram.jpg "ER diagram")
 
 ## ETL description
-In construction
+Under construction!
 
 ## Unit testing
-In construction
+Under construction!
